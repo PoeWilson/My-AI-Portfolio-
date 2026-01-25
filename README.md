@@ -1,2 +1,1 @@
-# Prompt-Engineering-Portfolio
-My Prompt Engineering Portfolio where I dissect and analyse prompts and outputs.
+# My AI Research Papers/Prompt Engineering/AI Art Portfolio
